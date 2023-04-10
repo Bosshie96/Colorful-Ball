@@ -549,9 +549,9 @@ var userAgent = window.navigator.userAgent;
 Animation.generateSmallGlows(20);
 
 $(document).ready(function () {
-    game.showResult();
-    // game.scaleScreen();
-    // game.intro();
+    // game.showResult();
+    game.scaleScreen();
+    game.intro();
     // game.start();
     // game.bounce();
 
