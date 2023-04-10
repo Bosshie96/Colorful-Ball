@@ -477,10 +477,10 @@ body {
 }
 
 a {
-  cursor: url(/public/svg/cursor.svg), pointer;
+  cursor: url(public/svg/cursor.svg), pointer;
 }
 a:focus, a:active {
-  cursor: url(/public/svg/cursor-tap.svg), pointer;
+  cursor: url(public/svg/cursor-tap.svg), pointer;
 }
 
 .container {
@@ -511,54 +511,54 @@ a:focus, a:active {
   left: 0;
   top: 77px;
   height: 151px;
-  background: url(/public/svg/clouds.svg) repeat-x;
+  background: url(public/svg/clouds.svg) repeat-x;
   background-position-x: 170px;
 }
 
 .top_wave {
-  background: url(/public/svg/top_wave.png) repeat-x 0 -1px;
+  background: url(public/svg/top_wave.png) repeat-x 0 -1px;
   height: 35px;
   bottom: 0;
   z-index: 10001;
 }
 
 .wave1 {
-  background: url(/public/svg/wave1.svg) repeat-x;
+  background: url(public/svg/wave1.svg) repeat-x;
   height: 150px;
   bottom: 0;
   z-index: 23;
 }
 
 .wave2 {
-  background: url(/public/svg/wave2.svg) repeat-x;
+  background: url(public/svg/wave2.svg) repeat-x;
   height: 180px;
   bottom: 30px;
   z-index: 22;
 }
 
 .wave3 {
-  background: url(/public/svg/wave3.svg) repeat-x;
+  background: url(public/svg/wave3.svg) repeat-x;
   height: 180px;
   bottom: 90px;
   z-index: 21;
 }
 
 .wave4 {
-  background: url(/public/svg/wave4.svg) repeat-x;
+  background: url(public/svg/wave4.svg) repeat-x;
   height: 180px;
   bottom: 120px;
   z-index: 20;
 }
 
 .mount1 {
-  background: url(/public/svg/mount1.svg) repeat-x;
+  background: url(public/svg/mount1.svg) repeat-x;
   height: 150px;
   bottom: 280px;
   z-index: 11;
 }
 
 .mount2 {
-  background: url(/public/svg/mount2.svg) repeat-x;
+  background: url(public/svg/mount2.svg) repeat-x;
   height: 150px;
   bottom: 290px;
   z-index: 10;
@@ -571,7 +571,7 @@ a:focus, a:active {
   left: 0;
   top: 0;
   z-index: 1010;
-  background: url(/public/svg/noise.png);
+  background: url(public/svg/noise.png);
 }
 
 .glow {
@@ -622,16 +622,16 @@ a:focus, a:active {
   height: 362px;
   width: 90px;
   border-radius: 14px;
-  background-image: url(/public/svg/noise.png);
+  background-image: url(public/svg/noise.png);
   position: relative;
   overflow: hidden;
   float: left;
   margin-right: 90px;
   transition: background-color 0.4s ease;
-  cursor: url(/public/svg/cursor.svg), pointer;
+  cursor: url(public/svg/cursor.svg), pointer;
 }
 .stick:focus, .stick:active {
-  cursor: url(/public/svg/cursor-tap.svg), pointer;
+  cursor: url(public/svg/cursor-tap.svg), pointer;
 }
 
 .stick.red {
@@ -652,7 +652,7 @@ a:focus, a:active {
 
 .ball,
 .ball-demo {
-  background: url(/public/svg/ball.svg) right bottom;
+  background: url(public/svg/ball.svg) right bottom;
   background-size: 64px 64px;
   width: 53px;
   height: 53px;
@@ -796,10 +796,10 @@ a:focus, a:active {
   background: #4c4660;
 }
 .start-game .how-to-play .section-2 .bar {
-  cursor: url(/public/svg/cursor.svg), pointer;
+  cursor: url(public/svg/cursor.svg), pointer;
 }
 .start-game .how-to-play .section-2 .bar:focus, .start-game .how-to-play .section-2 .bar:active {
-  cursor: url(/public/svg/cursor-tap.svg), pointer;
+  cursor: url(public/svg/cursor-tap.svg), pointer;
 }
 .start-game .how-to-play .section-3 .ball-demo {
   background-color: #815ff8;
