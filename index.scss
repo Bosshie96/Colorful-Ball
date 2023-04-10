@@ -479,9 +479,9 @@ a {
     }
   }
   .logo-holder {
-    width: 513px;
-    height: 162px;
-    background-color: #4c4660;
+    width: 640px;
+    height: 195px;
+    background-color: #33485f;
     border: 4px solid #ff4571;
     border-radius: 68px;
     text-align: center;
@@ -489,9 +489,9 @@ a {
     .logo {
       color: #fff;
       text-transform: uppercase;
-      font-weight: 800;
+      font-weight: 700;
       font-size: 60px;
-      // letter-spacing: -0.1em;
+      letter-spacing: -0.03em;
       margin-top: 10px;
       margin-bottom: 4px;
       text-align: center;
@@ -510,7 +510,7 @@ a {
       height: 56px;
       font-size: 42px;
       text-align: center;
-      font-weight: 900;
+      font-weight: 700;
       letter-spacing: -3px;
       line-height: 56px;
       text-decoration: none;
@@ -591,8 +591,8 @@ a {
   justify-content: center;
   .score-container {
     background-color: #4c4660;
-    width: 433px;
-    height: 386px;
+    width: 540px;
+    height: 440px;
     border-radius: 38px;
     text-align: center;
     h1 {
